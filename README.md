@@ -78,24 +78,3 @@
   <a href="https://www.buymeacoffee.com/tuusuario"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-
-## 📌 Repositorios Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/vittoriocostantini/todoapp"><b>todoapp</b></a> <br>
-      <sub>Aplicación de tareas con Vite, Ionic, TypeScript y más.</sub> <br>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <br>
-      ⭐ 0
-    </td>
-    <!-- Puedes agregar otro repositorio aquí, o dejar solo uno -->
-    <!--
-    <td width="50%">
-      <a href="https://github.com/vittoriocost
