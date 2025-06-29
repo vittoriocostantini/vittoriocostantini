@@ -12,13 +12,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vittoriocostantini&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🚀 Comencé el viaje con el desarrollo de paginas webs y moviles para mi uso personal
-- 💻 Trabajo en desarrollo de aplicaciones moviles hibridas, diseño web y frontend
-- 🎓 Actualmente estudio de manera autodidacta, me enfoco en aprender tegnologias nuevas
-- 🛠️ Trabajo con React, vite y experiencia en desarrollo movil
-- 💬 Pregúntame sobre Frameworks, lenguajes y desarrollo de apps movil hibridas
-- 🤖 Interesado en optimizacion de codigo, Frameworks y desarrollo web/movil
-- 🏆 Minimo esfuerzo para maximo resultados  
+- 🚀 I started my journey by developing web and mobile pages for personal use.
+- 💻 I work on hybrid mobile app development, web design, and frontend.
+- 🎓 I am currently self-taught, focusing on learning new technologies.
+- 🛠️ I work with React, Vite, and have experience in mobile development.
+- 💬 Ask me about frameworks, programming languages, and hybrid mobile app development.
+- 🤖 Interested in code optimization, frameworks, and web/mobile development.
+- 🏆 Minimum effort for maximum results.
+
 
 <p align="center">
   <a href="mailto:penav1058@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +28,7 @@
 
 ---
 
-## 🛠️ Languages & tools I have placed My Hands On
+<h2 align="center">🛠️ Languages & tools I have placed My Hands On</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" width="70" height="70" style="border-radius: 20px; margin: 8px; background: #222; padding: 10px;"/>
@@ -68,13 +69,5 @@
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tuusuario"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
