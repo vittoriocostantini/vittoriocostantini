@@ -2,9 +2,6 @@
   <span style="color:#00BFFF;">Victor Costantini</span>🔥!
 </h1>
 
-<p align="center">
-  Namaste 🧘‍♂️ Soy <b>Victor Costantini</b>
-</p>
 
 ---
 
