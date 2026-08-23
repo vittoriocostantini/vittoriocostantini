@@ -23,3 +23,4 @@ If you want to reach out, you can find me on [LinkedIn](https://www.linkedin.com
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,git,css,firebase,notion,npm,redux,tailwind,vite,mongo,express,figma,next,jquery&perline=6&theme=dark"  width="420"/>
 </div>
 <br clear="both" />
+
