@@ -20,3 +20,4 @@ Beyond development, I'm also a ui/ux designer  with a strong passion for video e
   <br />
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,git,css,firebase,notion,npm,redux,tailwind,vite,mongo,express,figma,next,jquery&perline=18&theme=dark" />
 </p>
+
