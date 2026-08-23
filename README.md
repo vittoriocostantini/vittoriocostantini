@@ -28,3 +28,11 @@ Beyond development, I'm also a ui/ux designer  with a strong passion for video e
 </h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vittoriocostantini&theme=tokyonight&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+
+<div align="center">
+  <img 
+    src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=vittoriocostantini&theme=neon&stats=true&credit=true" 
+    alt="Graph de Contribuciones Isométrico de Vittorio Costantini" 
+    width="100%"
+  />
+</div>
