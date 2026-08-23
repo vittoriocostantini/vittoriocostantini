@@ -10,9 +10,12 @@ My main tech stack is React, TypeScript, Tailwind, and Redux. My favorite tools 
 
 If you want to reach out, you can find me on [LinkedIn](https://www.linkedin.com/in/victorcostantini) or by [email](mailto:penav1058@gmail.com).
 
+<br clear="both" />
+<h2 align="center">Soft Skills</h2>
+
 <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" height="140" />
 
-**Fun Facts:**
+
 - I love clean, minimal UI
 - I enjoy optimizing code and workflows
 - Hybrid mobile dev is my favorite type of project
