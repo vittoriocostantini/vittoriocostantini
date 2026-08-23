@@ -27,4 +27,4 @@ Beyond development, I'm also a ui/ux designer  with a strong passion for video e
   </a>
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vittoriocostantini&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vittoriocostantini&theme=tokyonight&hide_border=true&card_width=1000)](https://git.io/streak-stats)
