@@ -23,7 +23,7 @@
 <h2 align="center">Tech Stack & Tools</h2>
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" width="400" />
+  <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" width="370" />
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,git,css,firebase,notion,npm,redux,tailwind,vite,mongo,express,figma,next,jquery&perline=6&theme=dark"  width="420"/>
 </div>
 <br clear="both" />
