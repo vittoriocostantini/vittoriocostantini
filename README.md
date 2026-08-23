@@ -1,8 +1,7 @@
 <h2>Hey there! 👋</h2>
 
-<table border="0">
-  <tr>
-    <td valign="middle" width="60%">
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" height="360" />
 
   I'm **Victor Costantini**, a frontend developer.
 
@@ -19,14 +18,8 @@
   - I enjoy optimizing code and workflows
   - Hybrid mobile dev is my favorite type of project
   - **Hobbies:** _add yours here_
-
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
+</div>
+<br clear="both" />
 <h2 align="center">Tech Stack & Tools</h2>
 
 <div>
