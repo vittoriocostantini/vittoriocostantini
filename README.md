@@ -26,3 +26,5 @@ Beyond development, I'm also a ui/ux designer  with a strong passion for video e
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+scalable+web+architectures;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+%26+Performance+Obsessed" alt="Typing SVG" />
   </a>
 </h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vittoriocostantini&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
