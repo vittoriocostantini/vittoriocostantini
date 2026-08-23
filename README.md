@@ -20,6 +20,6 @@ If you want to reach out, you can find me on [LinkedIn](https://www.linkedin.com
 
 <div>
   <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/avatar.gif" width="250" />
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,git,css,firebase,notion,npm,redux,tailwind,vite,mongo,express,figma,next,jquery&perline=6&theme=dark"  width="500"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,git,css,firebase,notion,npm,redux,tailwind,vite,mongo,express,figma,next,jquery&perline=6&theme=dark"  width="400"/>
 </div>
 <br clear="both" />
