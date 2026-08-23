@@ -1,3 +1,5 @@
+  <img src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/banner.png" alt="Victor Costantini Banner" width="100%" />
+
 <h2>Hey there! 👋</h2>
 
 I'm **Victor Costantini**, a frontend developer.
