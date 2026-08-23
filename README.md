@@ -1,7 +1,7 @@
 <h2>Hey there! 👋</h2>
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" height="300" />
+  <img align="right" src="https://raw.githubusercontent.com/vittoriocostantini/vittoriocostantini/main/me-readme.gif" height="120" />
 
   I'm **Victor Costantini**, a frontend developer.
 
